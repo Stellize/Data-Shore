@@ -259,10 +259,11 @@ export default function FileViewer({
           </div>
           {downloadable && file ? (
             <a
-              className="btn btn-primary btn-sm"
+              className="btn btn-primary btn-sm viewer-download"
               href={streamUrl(archive.slug, file.path, { download: true })}
+              aria-label={`Download ${file.name}`}
             >
-              <Download size={15} /> Download
+              <Download size={15} /> <span className="viewer-download-label">Download</span>
             </a>
           ) : null}
           <button type="button" className="icon-btn viewer-close" onClick={onClose} aria-label="Close viewer">

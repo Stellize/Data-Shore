@@ -5902,17 +5902,27 @@ mark {
   }
 
   .viewer-top {
-    flex-wrap: wrap;
     padding: 10px 12px;
     gap: 10px;
   }
 
   .viewer-actions {
-    width: 100%;
-    justify-content: space-between;
+    gap: 6px;
   }
 
   .viewer-pager {
+    display: none;
+  }
+
+  .viewer-title h2 {
+    max-width: 128px;
+  }
+
+  .viewer-download {
+    padding: 0 10px;
+  }
+
+  .viewer-download-label {
     display: none;
   }
 
