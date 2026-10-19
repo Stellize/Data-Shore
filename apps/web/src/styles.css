@@ -6160,12 +6160,12 @@ mark {
     max-width: none;
   }
 
-  .console-stat-grid {
+  .managed-item {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  .managed-item {
-    grid-template-columns: minmax(0, 1fr);
+  .managed-item .managed-open {
+    justify-self: start;
   }
 
   .managed-cover {
