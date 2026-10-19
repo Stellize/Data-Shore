@@ -1,0 +1,25 @@
+HARBOR SESSIONS · MIX NOTES
+Last updated 2026-09-14
+
+01 Slow Ferry
+  - Bass: room mic + DI, 60/40. The room mic is doing most of the work.
+  - Keep the drift; do not grid it. It is the whole point.
+  - Ferry horn at 03:12 — leave it, but ride it down 2 dB.
+
+02 Chain Against Bollard
+  - Recorded mono, window open. The bollard is the instrument.
+  - High-pass at 90 Hz to take out the wind; the chain lives above that.
+  - Loop point at 00:41 — not a clean loop, which is fine.
+
+03 Room Tone (unlisted)
+  - Four minutes of the room with the window open.
+  - Useful as a bed under the others. Not for release.
+
+MASTER BUS
+  - Tape saturation, gentle.
+  - No limiter until the very end; we are not making a car commercial.
+  - Leave headroom. The room has enough hum already.
+
+NOTES TO SELF
+  - The mix in the cold sounded thin. Trust the warm listening.
+  - Ask M. about the 50 Hz notch — it may be taking too much.

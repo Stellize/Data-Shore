@@ -1,0 +1,19 @@
+AUDIO · FIELD RECORDINGS
+Two recordings, both made at the edge of the tide.
+
+tide-pool-ambience.mp3
+  Place: north shingle, beside the anemone pool
+  Time:  05:52, one hour before low water
+  Gear:  two omni mics, 40 cm apart, windshield
+  Notes: water breathing through shingle; a distant oystercatcher at 0:18;
+         the recording is unedited except for a gentle fade at both ends.
+
+night-ferry-loop.mp3
+  Place: harbour wall, looking across the strait
+  Time:  22:10, ferry due at 22:40 (it was late)
+  Gear:  single cardioid, low-cut at 40 Hz
+  Notes: engine hum, chain against the bollard, one gull. Looped for
+         listening rather than documentation.
+
+Both files are offered as-is for personal listening. They are not licensed for
+commercial use. Credit: "Tide Atlas field recordings".

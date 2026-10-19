@@ -1,0 +1,33 @@
+[
+  {
+    "shareId": "tide-atlas",
+    "title": "Tide Atlas",
+    "description": "Six years of shore observations from the estuary and the headland: photographs, hand-transcribed tide tables, two essays, field recordings, and a short low-tide walk.",
+    "curator": "The keeper",
+    "tags": [
+      "coast",
+      "field notes",
+      "photography",
+      "tides"
+    ],
+    "visibility": "public",
+    "downloads": true,
+    "featured": true,
+    "coverPath": "photographs/2024-03-estuary/01-estuary-veins.jpg"
+  },
+  {
+    "shareId": "harbor-sessions",
+    "title": "Harbor Sessions",
+    "description": "Three nights in a small analogue room above the chandlery. Session logs, plates, a looping ferry sketch, and the signal chain in full.",
+    "curator": "A. & M.",
+    "tags": [
+      "studio",
+      "analogue",
+      "field recording"
+    ],
+    "visibility": "public",
+    "downloads": true,
+    "featured": false,
+    "coverPath": "photos/02-reel-to-reel.jpg"
+  }
+]

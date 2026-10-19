@@ -1,0 +1,49 @@
+{
+ "node": {
+  "name": "Demo shore node",
+  "url": "http://127.0.0.1:4771",
+  "version": "0.1.0",
+  "protocol": 1,
+  "readOnly": true,
+  "shares": [
+   {
+    "id": "tide-atlas",
+    "name": "Tide Atlas",
+    "description": "Six years of shore observations: photographs, field notes, recordings, and a reader's companion.",
+    "stats": {
+     "files": 23,
+     "folders": 10,
+     "bytes": 4560537,
+     "kinds": {
+      "text": 12,
+      "video": 2,
+      "image": 6,
+      "pdf": 1,
+      "audio": 1,
+      "archive": 1
+     },
+     "latestMtime": "2026-10-19T02:03:45.144Z"
+    },
+    "state": "ready"
+   },
+   {
+    "id": "harbor-sessions",
+    "name": "Harbor Sessions",
+    "description": "Studio notes, photographs, and rough mixes from three nights in an analogue room by the water.",
+    "stats": {
+     "files": 9,
+     "folders": 5,
+     "bytes": 1159930,
+     "kinds": {
+      "text": 4,
+      "image": 3,
+      "code": 1,
+      "audio": 1
+     },
+     "latestMtime": "2026-10-19T02:04:02.208Z"
+    },
+    "state": "ready"
+   }
+  ]
+ }
+}

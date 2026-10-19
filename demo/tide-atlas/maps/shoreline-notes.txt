@@ -1,0 +1,21 @@
+SHORELINE NOTES · working sketch
+Companion to coordinates.json. Sketch, not survey.
+
+  HEADLAND
+     |
+     |  light (new lamp, 2025)
+     |\
+     | \   storm beach, boulders
+     |  \
+     |   \   --------------------------
+     |    \  /  north shingle (pools)
+     |     \/__________________________
+     |      \  estuary mouth, sand flats
+     |       \_________________________
+     |        \  ridge path (floods)
+     |         \______________________
+     |          field station (private)
+     |____________________________________
+
+Transects run at low water, 05:40-07:10, March 2024.
+All positions approximate. The coast, as ever, reserves the right to edit itself.

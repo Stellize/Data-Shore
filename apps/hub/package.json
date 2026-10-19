@@ -1,0 +1,16 @@
+{
+  "name": "@datashore/hub",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Data Shore hub — public archive website and console.",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mime-types": "^2.1.35"
+  }
+}

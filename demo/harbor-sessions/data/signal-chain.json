@@ -1,0 +1,62 @@
+{
+  "session": "harbor-sessions-2026-09",
+  "room": {
+    "location": "studio above the chandlery",
+    "hum_hz": 50,
+    "window": "facing the strait"
+  },
+  "chain": [
+    {
+      "step": 1,
+      "device": "Revox A77",
+      "role": "tape machine",
+      "notes": "borrowed, ~+8 cents fast"
+    },
+    {
+      "step": 2,
+      "device": "TL Audio EQ-1",
+      "role": "eq",
+      "notes": "high shelf used sparingly"
+    },
+    {
+      "step": 3,
+      "device": "dbx 160",
+      "role": "compressor",
+      "notes": "barely moving the needle"
+    },
+    {
+      "step": 4,
+      "device": "interface",
+      "role": "capture",
+      "notes": "24-bit / 48 kHz"
+    }
+  ],
+  "takes": [
+    {
+      "id": "T01",
+      "name": "Slow Ferry",
+      "bpm": null,
+      "feel": "free",
+      "notes": "bass live, horn kept"
+    },
+    {
+      "id": "T02",
+      "name": "Chain Against Bollard",
+      "bpm": null,
+      "feel": "found",
+      "notes": "window open"
+    },
+    {
+      "id": "T03",
+      "name": "Room Tone",
+      "bpm": null,
+      "feel": "still",
+      "notes": "4 min, unlisted"
+    }
+  ],
+  "export": {
+    "format": "mp3",
+    "bitrate": "192k",
+    "license": "personal listening only"
+  }
+}

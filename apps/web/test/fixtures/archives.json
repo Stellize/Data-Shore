@@ -1,0 +1,79 @@
+{
+ "archives": [
+  {
+   "id": "15fee3b3df291959",
+   "slug": "tide-atlas",
+   "title": "Tide Atlas",
+   "description": "Six years of shore observations from the estuary and the headland: photographs, hand-transcribed tide tables, two essays, field recordings, and a short low-tide walk.",
+   "curator": "The keeper",
+   "tags": [
+    "coast",
+    "field notes",
+    "photography",
+    "tides"
+   ],
+   "stats": {
+    "files": 23,
+    "folders": 10,
+    "bytes": 4560537,
+    "kinds": {
+     "text": 12,
+     "video": 2,
+     "image": 6,
+     "pdf": 1,
+     "audio": 1,
+     "archive": 1
+    },
+    "latestMtime": "2026-10-19T02:03:45.144Z",
+    "truncated": false
+   },
+   "visibility": "public",
+   "featured": true,
+   "downloads": true,
+   "status": "live",
+   "createdAt": "2026-10-19T02:04:23.516Z",
+   "updatedAt": "2026-10-19T02:04:23.529Z",
+   "syncedAt": "2026-10-19T02:04:23.529Z",
+   "views": 0,
+   "downloadCount": 0,
+   "coverPath": "photographs/2024-03-estuary/05-field-desk.jpg",
+   "hasCatalog": true
+  },
+  {
+   "id": "77a2340f264dd44c",
+   "slug": "harbor-sessions",
+   "title": "Harbor Sessions",
+   "description": "Three nights in a small analogue room above the chandlery. Session logs, plates, a looping ferry sketch, and the signal chain in full.",
+   "curator": "A. & M.",
+   "tags": [
+    "studio",
+    "analogue",
+    "field recording"
+   ],
+   "stats": {
+    "files": 9,
+    "folders": 5,
+    "bytes": 1159930,
+    "kinds": {
+     "text": 4,
+     "image": 3,
+     "code": 1,
+     "audio": 1
+    },
+    "latestMtime": "2026-10-19T02:04:02.208Z",
+    "truncated": false
+   },
+   "visibility": "public",
+   "featured": false,
+   "downloads": true,
+   "status": "live",
+   "createdAt": "2026-10-19T02:04:23.535Z",
+   "updatedAt": "2026-10-19T02:04:23.553Z",
+   "syncedAt": "2026-10-19T02:04:23.553Z",
+   "views": 0,
+   "downloadCount": 0,
+   "coverPath": "photos/01-wave-specimens.jpg",
+   "hasCatalog": true
+  }
+ ]
+}

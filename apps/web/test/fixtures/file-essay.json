@@ -1,0 +1,60 @@
+{
+ "archive": {
+  "id": "15fee3b3df291959",
+  "slug": "tide-atlas",
+  "title": "Tide Atlas",
+  "description": "Six years of shore observations from the estuary and the headland: photographs, hand-transcribed tide tables, two essays, field recordings, and a short low-tide walk.",
+  "curator": "The keeper",
+  "tags": [
+   "coast",
+   "field notes",
+   "photography",
+   "tides"
+  ],
+  "stats": {
+   "files": 23,
+   "folders": 10,
+   "bytes": 4560537,
+   "kinds": {
+    "text": 12,
+    "video": 2,
+    "image": 6,
+    "pdf": 1,
+    "audio": 1,
+    "archive": 1
+   },
+   "latestMtime": "2026-10-19T02:03:45.144Z",
+   "truncated": false
+  },
+  "visibility": "public",
+  "featured": true,
+  "downloads": true,
+  "status": "live",
+  "createdAt": "2026-10-19T02:04:23.516Z",
+  "updatedAt": "2026-10-19T02:04:23.529Z",
+  "syncedAt": "2026-10-19T02:04:23.529Z",
+  "views": 1,
+  "downloadCount": 0
+ },
+ "file": {
+  "path": "essays/waves-at-the-edge.md",
+  "name": "waves-at-the-edge.md",
+  "dir": "essays",
+  "kind": "text",
+  "ext": "md",
+  "mime": "text/markdown; charset=utf-8",
+  "size": 2161,
+  "mtime": "2026-10-19T02:02:31.500Z",
+  "type": "file"
+ },
+ "breadcrumbs": [
+  {
+   "name": "Archive",
+   "path": ""
+  },
+  {
+   "name": "essays",
+   "path": "essays"
+  }
+ ]
+}

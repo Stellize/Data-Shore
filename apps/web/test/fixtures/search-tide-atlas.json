@@ -1,0 +1,127 @@
+{
+ "archive": {
+  "id": "15fee3b3df291959",
+  "slug": "tide-atlas",
+  "title": "Tide Atlas",
+  "description": "Six years of shore observations from the estuary and the headland: photographs, hand-transcribed tide tables, two essays, field recordings, and a short low-tide walk.",
+  "curator": "The keeper",
+  "tags": [
+   "coast",
+   "field notes",
+   "photography",
+   "tides"
+  ],
+  "stats": {
+   "files": 23,
+   "folders": 10,
+   "bytes": 4560537,
+   "kinds": {
+    "text": 12,
+    "video": 2,
+    "image": 6,
+    "pdf": 1,
+    "audio": 1,
+    "archive": 1
+   },
+   "latestMtime": "2026-10-19T02:03:45.144Z",
+   "truncated": false
+  },
+  "visibility": "public",
+  "featured": true,
+  "downloads": true,
+  "status": "live",
+  "createdAt": "2026-10-19T02:04:23.516Z",
+  "updatedAt": "2026-10-19T02:04:23.529Z",
+  "syncedAt": "2026-10-19T02:04:23.529Z",
+  "views": 1,
+  "downloadCount": 0
+ },
+ "query": "tide",
+ "total": 7,
+ "results": [
+  {
+   "path": "field-notes/tide-table-october-2026.csv",
+   "name": "tide-table-october-2026.csv",
+   "dir": "field-notes",
+   "kind": "text",
+   "ext": "csv",
+   "mime": "text/csv; charset=utf-8",
+   "size": 1679,
+   "mtime": "2026-10-19T02:02:43.260Z",
+   "type": "file",
+   "score": 705
+  },
+  {
+   "path": "documents/tide-atlas-readers-companion.pdf",
+   "name": "tide-atlas-readers-companion.pdf",
+   "dir": "documents",
+   "kind": "pdf",
+   "ext": "pdf",
+   "mime": "application/pdf",
+   "size": 5810,
+   "mtime": "2026-10-19T02:03:45.144Z",
+   "type": "file",
+   "score": 705
+  },
+  {
+   "path": "audio/tide-pool-ambience.mp3",
+   "name": "tide-pool-ambience.mp3",
+   "dir": "audio",
+   "kind": "audio",
+   "ext": "mp3",
+   "mime": "audio/mpeg",
+   "size": 901269,
+   "mtime": "2026-10-19T02:03:17.628Z",
+   "type": "file",
+   "score": 705
+  },
+  {
+   "path": "archives/tide-tables-2019-2025.zip",
+   "name": "tide-tables-2019-2025.zip",
+   "dir": "archives",
+   "kind": "archive",
+   "ext": "zip",
+   "mime": "application/zip",
+   "size": 43168,
+   "mtime": "2026-10-19T02:03:45.144Z",
+   "type": "file",
+   "score": 705
+  },
+  {
+   "path": "video/low-tide-walk.mp4",
+   "name": "low-tide-walk.mp4",
+   "dir": "video",
+   "kind": "video",
+   "ext": "mp4",
+   "mime": "video/mp4",
+   "size": 1347674,
+   "mtime": "2026-10-19T02:03:30.100Z",
+   "type": "file",
+   "score": 405
+  },
+  {
+   "path": "photographs/2024-03-estuary/03-tide-pool-barnacles.jpg",
+   "name": "03-tide-pool-barnacles.jpg",
+   "dir": "photographs/2024-03-estuary",
+   "kind": "image",
+   "ext": "jpg",
+   "mime": "image/jpeg",
+   "size": 255568,
+   "mtime": "2026-10-19T02:02:31.484Z",
+   "type": "file",
+   "score": 405
+  },
+  {
+   "path": "field-notes/reading-a-tide-table.md",
+   "name": "reading-a-tide-table.md",
+   "dir": "field-notes",
+   "kind": "text",
+   "ext": "md",
+   "mime": "text/markdown; charset=utf-8",
+   "size": 812,
+   "mtime": "2026-10-19T02:02:43.260Z",
+   "type": "file",
+   "score": 405
+  }
+ ]
+}

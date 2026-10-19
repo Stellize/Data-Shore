@@ -1,0 +1,30 @@
+{
+  "name": "data-shore",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A read-only shore for your drives \u2014 stream any folder to the web, let people look, never touch.",
+  "workspaces": [
+    "apps/node",
+    "apps/hub",
+    "apps/web",
+    "packages/shared"
+  ],
+  "scripts": {
+    "demo": "npm run build && node scripts/demo.mjs",
+    "start": "node apps/hub/src/index.js",
+    "start:node": "node apps/node/src/index.js",
+    "build": "npm run build --workspace @datashore/web",
+    "dev:hub": "node apps/hub/src/index.js",
+    "dev:web": "npm run dev --workspace @datashore/web",
+    "test": "npm run test:api && npm run test:ui",
+    "test:api": "node --test apps/node/test/*.test.js apps/hub/test/*.test.js",
+    "test:ui": "npm run test --workspace @datashore/web"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0"
+  }
+}
