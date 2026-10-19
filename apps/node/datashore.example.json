@@ -1,0 +1,20 @@
+{
+  "name": "Home archive node",
+  "port": 4770,
+  "host": "127.0.0.1",
+  "token": "replace-with-a-long-random-token",
+  "shares": [
+    {
+      "id": "photographs",
+      "name": "Photographs",
+      "description": "Twelve years of film scans, sorted by season.",
+      "path": "/Volumes/Archive/Photographs"
+    },
+    {
+      "id": "field-notes",
+      "name": "Field notes",
+      "description": "Scans of notebooks and tide tables.",
+      "path": "/Volumes/Archive/Field notes"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "archive": "Tide Atlas",
+  "datum": "WGS84",
+  "stations": [
+    {
+      "id": "estuary-ridge",
+      "name": "Estuary ridge path",
+      "lat": 18.2881,
+      "lon": 99.4902,
+      "notes": "Access at low water only; path floods"
+    },
+    {
+      "id": "north-shingle",
+      "name": "North shingle",
+      "lat": 18.2914,
+      "lon": 99.4867,
+      "notes": "Tide pool with anemones"
+    },
+    {
+      "id": "headland-light",
+      "name": "Headland light",
+      "lat": 18.3027,
+      "lon": 99.4751,
+      "notes": "New lamp in service Oct 2025"
+    },
+    {
+      "id": "field-station",
+      "name": "Field station desk",
+      "lat": 18.2902,
+      "lon": 99.4888,
+      "notes": "Not open to visitors"
+    }
+  ],
+  "updated": "2026-10-01"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Docker demo node",
+  "port": 4770,
+  "host": "0.0.0.0",
+  "token": "replace-with-a-long-random-token",
+  "shares": [
+    {
+      "id": "archive",
+      "name": "Mounted archive",
+      "description": "A folder mounted read-only into the node container.",
+      "path": "/shares/archive"
+    }
+  ]
+}

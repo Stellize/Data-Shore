@@ -1,0 +1,16 @@
+# Data Shore node — serves one or more folders, read-only.
+# Build from the repository root:  docker build -f Dockerfile.node -t data-shore-node .
+FROM node:22-alpine
+WORKDIR /app
+COPY package.json package-lock.json ./
+COPY apps/node/package.json apps/node/package.json
+COPY apps/hub/package.json apps/hub/package.json
+COPY apps/web/package.json apps/web/package.json
+COPY packages/shared/package.json packages/shared/package.json
+RUN npm ci --omit=dev --no-audit --no-fund
+COPY packages/shared packages/shared
+COPY apps/node apps/node
+EXPOSE 4770
+VOLUME ["/shares", "/config"]
+ENTRYPOINT ["node", "apps/node/src/index.js"]
+CMD ["--config", "/config/datashore.node.json"]

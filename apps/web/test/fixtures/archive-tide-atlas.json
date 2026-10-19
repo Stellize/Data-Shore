@@ -1,0 +1,422 @@
+{
+ "archive": {
+  "id": "15fee3b3df291959",
+  "slug": "tide-atlas",
+  "title": "Tide Atlas",
+  "description": "Six years of shore observations from the estuary and the headland: photographs, hand-transcribed tide tables, two essays, field recordings, and a short low-tide walk.",
+  "curator": "The keeper",
+  "tags": [
+   "coast",
+   "field notes",
+   "photography",
+   "tides"
+  ],
+  "stats": {
+   "files": 23,
+   "folders": 10,
+   "bytes": 4560537,
+   "kinds": {
+    "text": 12,
+    "video": 2,
+    "image": 6,
+    "pdf": 1,
+    "audio": 1,
+    "archive": 1
+   },
+   "latestMtime": "2026-10-19T02:03:45.144Z",
+   "truncated": false
+  },
+  "visibility": "public",
+  "featured": true,
+  "downloads": true,
+  "status": "live",
+  "createdAt": "2026-10-19T02:04:23.516Z",
+  "updatedAt": "2026-10-19T02:04:23.529Z",
+  "syncedAt": "2026-10-19T02:04:23.529Z",
+  "views": 1,
+  "downloadCount": 0,
+  "coverPath": "photographs/2024-03-estuary/05-field-desk.jpg"
+ },
+ "path": "",
+ "folder": null,
+ "breadcrumbs": [
+  {
+   "name": "Archive",
+   "path": ""
+  }
+ ],
+ "entries": [
+  {
+   "path": "archives",
+   "name": "archives",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 43168,
+   "fileCount": 1,
+   "mtime": "2026-10-19T02:03:45.144Z"
+  },
+  {
+   "path": "audio",
+   "name": "audio",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 902070,
+   "fileCount": 2,
+   "mtime": "2026-10-19T02:03:17.628Z"
+  },
+  {
+   "path": "documents",
+   "name": "documents",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 5810,
+   "fileCount": 1,
+   "mtime": "2026-10-19T02:03:45.144Z"
+  },
+  {
+   "path": "essays",
+   "name": "essays",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 3782,
+   "fileCount": 2,
+   "mtime": "2026-10-19T02:02:31.504Z"
+  },
+  {
+   "path": "field-notes",
+   "name": "field-notes",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 4488,
+   "fileCount": 4,
+   "mtime": "2026-10-19T02:02:43.260Z"
+  },
+  {
+   "path": "maps",
+   "name": "maps",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 680,
+   "fileCount": 1,
+   "mtime": "2026-10-19T02:02:55.652Z"
+  },
+  {
+   "path": "photographs",
+   "name": "photographs",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 1548422,
+   "fileCount": 8,
+   "mtime": "2026-10-19T02:02:31.500Z"
+  },
+  {
+   "path": "video",
+   "name": "video",
+   "dir": "",
+   "type": "dir",
+   "kind": "folder",
+   "ext": "",
+   "mime": null,
+   "size": 2050935,
+   "fileCount": 3,
+   "mtime": "2026-10-19T02:03:33.464Z"
+  },
+  {
+   "path": "README.md",
+   "name": "README.md",
+   "dir": "",
+   "kind": "text",
+   "ext": "md",
+   "mime": "text/markdown; charset=utf-8",
+   "size": 1182,
+   "mtime": "2026-10-19T02:02:31.496Z",
+   "type": "file"
+  }
+ ],
+ "summary": {
+  "files": 23,
+  "bytes": 4560537,
+  "directFiles": 1,
+  "directBytes": 1182
+ },
+ "highlights": {
+  "coverPath": "photographs/2024-03-estuary/05-field-desk.jpg",
+  "gallery": [
+   {
+    "path": "photographs/2025-10-headland/01-headland-light.jpg",
+    "name": "01-headland-light.jpg",
+    "dir": "photographs/2025-10-headland",
+    "kind": "image",
+    "ext": "jpg",
+    "mime": "image/jpeg",
+    "size": 242087,
+    "mtime": "2026-10-19T02:02:31.488Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2024-03-estuary/01-estuary-veins.jpg",
+    "name": "01-estuary-veins.jpg",
+    "dir": "photographs/2024-03-estuary",
+    "kind": "image",
+    "ext": "jpg",
+    "mime": "image/jpeg",
+    "size": 195859,
+    "mtime": "2026-10-19T02:02:31.480Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2024-03-estuary/02-rowboat-in-fog.jpg",
+    "name": "02-rowboat-in-fog.jpg",
+    "dir": "photographs/2024-03-estuary",
+    "kind": "image",
+    "ext": "jpg",
+    "mime": "image/jpeg",
+    "size": 286671,
+    "mtime": "2026-10-19T02:02:31.480Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2024-03-estuary/03-tide-pool-barnacles.jpg",
+    "name": "03-tide-pool-barnacles.jpg",
+    "dir": "photographs/2024-03-estuary",
+    "kind": "image",
+    "ext": "jpg",
+    "mime": "image/jpeg",
+    "size": 255568,
+    "mtime": "2026-10-19T02:02:31.484Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2024-03-estuary/04-marsh-creek-dawn.jpg",
+    "name": "04-marsh-creek-dawn.jpg",
+    "dir": "photographs/2024-03-estuary",
+    "kind": "image",
+    "ext": "jpg",
+    "mime": "image/jpeg",
+    "size": 219962,
+    "mtime": "2026-10-19T02:02:31.484Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2024-03-estuary/05-field-desk.jpg",
+    "name": "05-field-desk.jpg",
+    "dir": "photographs/2024-03-estuary",
+    "kind": "image",
+    "ext": "jpg",
+    "mime": "image/jpeg",
+    "size": 346954,
+    "mtime": "2026-10-19T02:02:31.488Z",
+    "type": "file"
+   }
+  ],
+  "recent": [
+   {
+    "path": "README.md",
+    "name": "README.md",
+    "dir": "",
+    "kind": "text",
+    "ext": "md",
+    "mime": "text/markdown; charset=utf-8",
+    "size": 1182,
+    "mtime": "2026-10-19T02:02:31.496Z",
+    "type": "file"
+   },
+   {
+    "path": "video/README.txt",
+    "name": "README.txt",
+    "dir": "video",
+    "kind": "text",
+    "ext": "txt",
+    "mime": "text/plain; charset=utf-8",
+    "size": 345,
+    "mtime": "2026-10-19T02:02:55.652Z",
+    "type": "file"
+   },
+   {
+    "path": "video/headland-in-rain.mp4",
+    "name": "headland-in-rain.mp4",
+    "dir": "video",
+    "kind": "video",
+    "ext": "mp4",
+    "mime": "video/mp4",
+    "size": 702916,
+    "mtime": "2026-10-19T02:03:33.464Z",
+    "type": "file"
+   },
+   {
+    "path": "video/low-tide-walk.mp4",
+    "name": "low-tide-walk.mp4",
+    "dir": "video",
+    "kind": "video",
+    "ext": "mp4",
+    "mime": "video/mp4",
+    "size": 1347674,
+    "mtime": "2026-10-19T02:03:30.100Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2025-10-headland/captions.txt",
+    "name": "captions.txt",
+    "dir": "photographs/2025-10-headland",
+    "kind": "text",
+    "ext": "txt",
+    "mime": "text/plain; charset=utf-8",
+    "size": 333,
+    "mtime": "2026-10-19T02:02:31.500Z",
+    "type": "file"
+   },
+   {
+    "path": "photographs/2024-03-estuary/captions.txt",
+    "name": "captions.txt",
+    "dir": "photographs/2024-03-estuary",
+    "kind": "text",
+    "ext": "txt",
+    "mime": "text/plain; charset=utf-8",
+    "size": 988,
+    "mtime": "2026-10-19T02:02:31.496Z",
+    "type": "file"
+   },
+   {
+    "path": "maps/shoreline-notes.txt",
+    "name": "shoreline-notes.txt",
+    "dir": "maps",
+    "kind": "text",
+    "ext": "txt",
+    "mime": "text/plain; charset=utf-8",
+    "size": 680,
+    "mtime": "2026-10-19T02:02:55.652Z",
+    "type": "file"
+   },
+   {
+    "path": "field-notes/coordinates.json",
+    "name": "coordinates.json",
+    "dir": "field-notes",
+    "kind": "text",
+    "ext": "json",
+    "mime": "application/json",
+    "size": 756,
+    "mtime": "2026-10-19T02:02:43.260Z",
+    "type": "file"
+   }
+  ],
+  "folders": [
+   {
+    "path": "video",
+    "name": "video",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 2050935,
+    "fileCount": 3,
+    "mtime": "2026-10-19T02:03:33.464Z"
+   },
+   {
+    "path": "photographs",
+    "name": "photographs",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 1548422,
+    "fileCount": 8,
+    "mtime": "2026-10-19T02:02:31.500Z"
+   },
+   {
+    "path": "audio",
+    "name": "audio",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 902070,
+    "fileCount": 2,
+    "mtime": "2026-10-19T02:03:17.628Z"
+   },
+   {
+    "path": "archives",
+    "name": "archives",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 43168,
+    "fileCount": 1,
+    "mtime": "2026-10-19T02:03:45.144Z"
+   },
+   {
+    "path": "documents",
+    "name": "documents",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 5810,
+    "fileCount": 1,
+    "mtime": "2026-10-19T02:03:45.144Z"
+   },
+   {
+    "path": "field-notes",
+    "name": "field-notes",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 4488,
+    "fileCount": 4,
+    "mtime": "2026-10-19T02:02:43.260Z"
+   },
+   {
+    "path": "essays",
+    "name": "essays",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 3782,
+    "fileCount": 2,
+    "mtime": "2026-10-19T02:02:31.504Z"
+   },
+   {
+    "path": "maps",
+    "name": "maps",
+    "dir": "",
+    "type": "dir",
+    "kind": "folder",
+    "ext": "",
+    "mime": null,
+    "size": 680,
+    "fileCount": 1,
+    "mtime": "2026-10-19T02:02:55.652Z"
+   }
+  ]
+ }
+}

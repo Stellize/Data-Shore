@@ -1,0 +1,20 @@
+{
+  "name": "Demo shore node",
+  "port": 4771,
+  "host": "127.0.0.1",
+  "token": "dsn_demo_tide_archive_2026",
+  "shares": [
+    {
+      "id": "tide-atlas",
+      "name": "Tide Atlas",
+      "description": "Six years of shore observations: photographs, field notes, recordings, and a reader's companion.",
+      "path": "./tide-atlas"
+    },
+    {
+      "id": "harbor-sessions",
+      "name": "Harbor Sessions",
+      "description": "Studio notes, photographs, and rough mixes from three nights in an analogue room by the water.",
+      "path": "./harbor-sessions"
+    }
+  ]
+}

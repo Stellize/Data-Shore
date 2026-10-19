@@ -1,0 +1,114 @@
+{
+ "archive": {
+  "id": "15fee3b3df291959",
+  "slug": "tide-atlas",
+  "title": "Tide Atlas",
+  "description": "Six years of shore observations from the estuary and the headland: photographs, hand-transcribed tide tables, two essays, field recordings, and a short low-tide walk.",
+  "curator": "The keeper",
+  "tags": [
+   "coast",
+   "field notes",
+   "photography",
+   "tides"
+  ],
+  "stats": {
+   "files": 23,
+   "folders": 10,
+   "bytes": 4560537,
+   "kinds": {
+    "text": 12,
+    "video": 2,
+    "image": 6,
+    "pdf": 1,
+    "audio": 1,
+    "archive": 1
+   },
+   "latestMtime": "2026-10-19T02:03:45.144Z",
+   "truncated": false
+  },
+  "visibility": "public",
+  "featured": true,
+  "downloads": true,
+  "status": "live",
+  "createdAt": "2026-10-19T02:04:23.516Z",
+  "updatedAt": "2026-10-19T02:04:23.529Z",
+  "syncedAt": "2026-10-19T02:04:23.529Z",
+  "views": 1,
+  "downloadCount": 0
+ },
+ "path": "field-notes",
+ "folder": {
+  "path": "field-notes",
+  "name": "field-notes",
+  "dir": "",
+  "type": "dir",
+  "kind": "folder",
+  "ext": "",
+  "mime": null,
+  "size": 4488,
+  "fileCount": 4,
+  "mtime": "2026-10-19T02:02:43.260Z"
+ },
+ "breadcrumbs": [
+  {
+   "name": "Archive",
+   "path": ""
+  },
+  {
+   "name": "field-notes",
+   "path": "field-notes"
+  }
+ ],
+ "entries": [
+  {
+   "path": "field-notes/coordinates.json",
+   "name": "coordinates.json",
+   "dir": "field-notes",
+   "kind": "text",
+   "ext": "json",
+   "mime": "application/json",
+   "size": 756,
+   "mtime": "2026-10-19T02:02:43.260Z",
+   "type": "file"
+  },
+  {
+   "path": "field-notes/reading-a-tide-table.md",
+   "name": "reading-a-tide-table.md",
+   "dir": "field-notes",
+   "kind": "text",
+   "ext": "md",
+   "mime": "text/markdown; charset=utf-8",
+   "size": 812,
+   "mtime": "2026-10-19T02:02:43.260Z",
+   "type": "file"
+  },
+  {
+   "path": "field-notes/species-list.txt",
+   "name": "species-list.txt",
+   "dir": "field-notes",
+   "kind": "text",
+   "ext": "txt",
+   "mime": "text/plain; charset=utf-8",
+   "size": 1241,
+   "mtime": "2026-10-19T02:02:43.260Z",
+   "type": "file"
+  },
+  {
+   "path": "field-notes/tide-table-october-2026.csv",
+   "name": "tide-table-october-2026.csv",
+   "dir": "field-notes",
+   "kind": "text",
+   "ext": "csv",
+   "mime": "text/csv; charset=utf-8",
+   "size": 1679,
+   "mtime": "2026-10-19T02:02:43.260Z",
+   "type": "file"
+  }
+ ],
+ "summary": {
+  "files": 4,
+  "bytes": 4488,
+  "directFiles": 4,
+  "directBytes": 4488
+ }
+}
